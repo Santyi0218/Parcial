@@ -1,0 +1,7 @@
+
+<Automovil>
+	<placa>CNC-434</placa>
+	<marca>Mazda</marca>
+	<valorPeaje>10000</valorPeaje>
+	<tipovehiculo>Automovil</tipovehiculo>
+</Automovil>
